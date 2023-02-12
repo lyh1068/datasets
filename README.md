@@ -1,2 +1,2 @@
 # datasets
-Storing datasets I uesd online for easy access
+Storing datasets I used online for easy access
